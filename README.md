@@ -16,5 +16,5 @@ This project is a simple **Task Management API** using **GraphQL, Node.js, Expre
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/tp-graphql.git
+   git clone https://github.com/Hamdiabdall/GraphQl_Task.git
    cd tp-graphql
